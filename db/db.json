@@ -1,1 +1,106 @@
-{}
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "george"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "The Solar System",
+      "body": "The Solar System consists of the Sun and the objects that orbit it, including eight planets, their moons, dwarf planets, and countless small bodies like asteroids and comets. The Sun is a star at the center, providing light and heat. The planets are divided into inner rocky planets (Mercury, Venus, Earth, Mars) and outer gas giants (Jupiter, Saturn, Uranus, Neptune)."
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "World War II",
+      "body": "World War II was a global war that lasted from 1939 to 1945, involving most of the world's nations. It was triggered by the invasion of Poland by Nazi Germany. Key events include the Holocaust, the D-Day invasion, and the atomic bombings of Hiroshima and Nagasaki. The war ended with the defeat of the Axis powers and the establishment of the United Nations."
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Photosynthesis",
+      "body": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It involves converting carbon dioxide and water into glucose and oxygen. The equation is: 6CO2 + 6H2O + light energy → C6H12O6 + 6O2. This process is crucial for life on Earth as it produces oxygen and forms the base of the food chain."
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "title": "The Great Wall of China",
+      "body": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, built along the northern borders of China to protect against invasions. Construction began in the 7th century BC and continued for centuries. The most famous sections were built during the Ming Dynasty (1368–1644). It stretches over 13,000 miles and is a UNESCO World Heritage site."
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "title": "DNA Structure",
+      "body": "DNA, or deoxyribonucleic acid, is the molecule that carries genetic information in all living organisms. It consists of two long strands forming a double helix, held together by hydrogen bonds between complementary base pairs: adenine (A) with thymine (T), and guanine (G) with cytosine (C). Discovered by James Watson and Francis Crick in 1953, DNA replication ensures genetic continuity."
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "title": "The Amazon Rainforest",
+      "body": "The Amazon Rainforest is the largest tropical rainforest in the world, covering about 5.5 million square kilometers across nine South American countries. It is home to over 390 billion trees and millions of species, many of which are endemic. It plays a vital role in regulating the global climate by absorbing CO2 and producing oxygen. Deforestation threatens its biodiversity."
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "title": "Albert Einstein",
+      "body": "Albert Einstein (1879–1955) was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics. His famous equation E=mc² shows the equivalence of mass and energy. He won the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect. Einstein's work revolutionized our understanding of space, time, and the universe."
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "title": "Plate Tectonics",
+      "body": "Plate tectonics is the theory that Earth's outer shell is divided into several plates that glide over the mantle. These plates move due to convection currents in the mantle. Interactions at plate boundaries cause earthquakes, volcanic activity, and mountain building. The theory explains continental drift and the formation of features like the Himalayas and mid-ocean ridges."
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "title": "The Human Brain",
+      "body": "The human brain is the central organ of the nervous system, weighing about 1.5 kg. It consists of the cerebrum (responsible for higher functions like thinking and memory), cerebellum (coordination), and brainstem (basic life functions). Neurons communicate via synapses, and the brain processes information at incredible speeds. Plasticity allows it to adapt and learn throughout life."
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "title": "Ancient Egypt",
+      "body": "Ancient Egypt was a civilization along the Nile River that lasted from around 3100 BC to 30 BC. Known for pyramids, pharaohs, and hieroglyphics, it developed advanced architecture, mathematics, and medicine. Key figures include Cleopatra and Tutankhamun. The civilization's achievements in engineering, like the pyramids at Giza, continue to amaze modern scholars."
+    },
+    {
+      "id": 11,
+      "userId": 1,
+      "title": "Climate Change",
+      "body": "Climate change refers to long-term shifts in temperature and weather patterns, primarily caused by human activities like burning fossil fuels, leading to increased greenhouse gases. Effects include rising sea levels, extreme weather, and biodiversity loss. Mitigation strategies include renewable energy adoption and reforestation. International agreements like the Paris Accord aim to limit global warming."
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "title": "The Periodic Table",
+      "body": "The Periodic Table organizes all known chemical elements by atomic number, electron configuration, and recurring chemical properties. Created by Dmitri Mendeleev in 1869, it has 118 elements. Elements are grouped into metals, nonmetals, and metalloids. It predicts element behavior and is fundamental to chemistry, helping in understanding atomic structure and chemical reactions."
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "title": "The Renaissance",
+      "body": "The Renaissance was a period of cultural, artistic, political, and economic rebirth in Europe from the 14th to 17th century. Originating in Italy, it emphasized humanism, science, and individualism. Key figures include Leonardo da Vinci, Michelangelo, and Galileo. Innovations in art, literature, and science laid the foundation for the modern world."
+    },
+    {
+      "id": 14,
+      "userId": 1,
+      "title": "Black Holes",
+      "body": "Black holes are regions in space where gravity is so strong that nothing, not even light, can escape. Formed from the collapse of massive stars, they have an event horizon beyond which escape is impossible. Stephen Hawking's work showed they emit radiation. Supermassive black holes exist at galaxy centers, influencing galaxy formation."
+    },
+    {
+      "id": 15,
+      "userId": 1,
+      "title": "Democracy",
+      "body": "Democracy is a system of government where people have power, usually through elected representatives. Originating in ancient Athens, it emphasizes freedom, equality, and rule of law. Types include direct and representative democracy. Modern democracies protect rights via constitutions. Challenges include ensuring fair elections and combating corruption."
+    },
+    {
+      "id": 16,
+      "userId": 1,
+      "title": "The Internet",
+      "body": "The Internet is a global network of interconnected computers that communicate via standardized protocols. Invented in the 1960s for military purposes, it became public in the 1990s. It enables information sharing, e-commerce, and social interaction. Key technologies include TCP/IP, HTTP, and HTML. It has revolutionized communication, education, and business worldwide."
+    }
+  ]
+}

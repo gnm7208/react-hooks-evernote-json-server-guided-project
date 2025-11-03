@@ -1,11 +1,13 @@
 import React from "react";
 
-function NoteViewer() {
+function NoteViewer({ selectedNote, setIsEditing }) {
+  const { title, body } = selectedNote;
+
   return (
     <>
-      <h2>Title</h2>
-      <p>Body</p>
-      <button>Edit</button>
+      <h2>{title}</h2>
+      <p>{body}</p>
+      <button onClick={() => setIsEditing(true)}>Edit</button>
     </>
   );
 }

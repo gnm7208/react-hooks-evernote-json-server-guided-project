@@ -3,13 +3,29 @@ import Search from "./Search";
 import Sidebar from "./Sidebar";
 import Content from "./Content";
 
-function NoteContainer() {
+function NoteContainer({
+  notes,
+  selectedNote,
+  setSelectedNote,
+  searchTerm,
+  setSearchTerm,
+  setNotes,
+}) {
   return (
     <>
-      <Search />
+      <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
       <div className="container">
-        <Sidebar />
-        <Content />
+        <Sidebar
+          notes={notes}
+          selectedNote={selectedNote}
+          setSelectedNote={setSelectedNote}
+          setNotes={setNotes}
+        />
+        <Content
+          selectedNote={selectedNote}
+          setNotes={setNotes}
+          setSelectedNote={setSelectedNote}
+        />
       </div>
     </>
   );
